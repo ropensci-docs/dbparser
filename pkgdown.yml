@@ -1,0 +1,11 @@
+pandoc: '2.5'
+pkgdown: 1.6.1
+pkgdown_sha: ~
+articles:
+  Database_Saving: Database_Saving.html
+  dbparser: dbparser.html
+last_built: 2021-07-16T18:00Z
+urls:
+  reference: https://docs.ropensci.org/dbparser/reference
+  article: https://docs.ropensci.org/dbparser/articles
+

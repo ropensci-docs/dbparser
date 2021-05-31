@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "b91cf99d1a24641373713e8bda8d7ede2fe0e8c7",
+    "author": "Mohammed Ali <moh_fcis@yahoo.com>",
+    "time": "2021-05-31 12:00:28",
+    "files": 3,
+    "merge": false,
+    "message": "fix #129\n"
+  },
+  "remote": "https://github.com/ropensci/dbparser",
+  "pkg": "dbparser"
+}
