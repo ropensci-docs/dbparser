@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "be21b5ad476c36957b90c53028046e791edb00ea",
+    "author": "Mohammed Ali <moh_fcis@yahoo.com>",
+    "time": "2024-02-16 17:39:04",
+    "files": 119,
+    "merge": true,
+    "message": "Merge pull request #160 from ropensci/dev\n\nDev"
+  },
+  "repo": "https://github.com/ropensci/dbparser",
+  "pkg": "dbparser"
+}
