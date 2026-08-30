@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "06b711ee84d27f2a82d89aa224d11fce19048d76",
+    "author": "Mohammed Ali <moh_fcis@yahoo.com>",
+    "time": "2026-02-14T14:58:52Z",
+    "files": 8,
+    "merge": true,
+    "message": "Merge pull request #206 from ropensci/joss-paper-update\n\n- updated Readme"
+  },
+  "repo": "https://github.com/ropensci/dbparser",
+  "pkg": "dbparser",
+  "time": "2026-08-30T07:35:45Z"
+}
