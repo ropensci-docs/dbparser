@@ -1,0 +1,13 @@
+{
+  "commit": {
+    "commit": "4d7afe63bb6db035ef40380f820b85985f99698b",
+    "author": "MohammedFCIS <moh_fcis@yahoo.com>",
+    "time": "2026-11-08T10:37:22Z",
+    "files": 5,
+    "merge": false,
+    "message": "- Updated documents and readme\n"
+  },
+  "repo": "https://github.com/ropensci/dbparser",
+  "pkg": "dbparser",
+  "time": "2026-11-08T10:43:05Z"
+}
